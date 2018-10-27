@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: 68f33dc77f1aaaf4b83dd274957e7db0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pirateSpriteSheet1_0
+    21300002: pirateSpriteSheet1_1
+    21300004: pirateSpriteSheet1_2
+    21300006: pirateSpriteSheet1_3
+    21300008: pirateSpriteSheet1_4
+    21300010: pirateSpriteSheet1_5
+    21300012: pirateSpriteSheet1_6
+    21300014: pirateSpriteSheet1_7
+    21300016: pirateSpriteSheet1_8
+    21300018: pirateSpriteSheet1_9
+    21300020: pirateSpriteSheet1_10
+    21300022: pirateSpriteSheet1_11
+    21300024: pirateSpriteSheet1_12
+    21300026: pirateSpriteSheet1_13
+    21300028: pirateSpriteSheet1_14
+    21300030: pirateSpriteSheet1_15
+    21300032: pirateSpriteSheet1_16
+    21300034: pirateSpriteSheet1_17
+    21300036: pirateSpriteSheet1_18
+    21300038: pirateSpriteSheet1_19
+    21300040: pirateSpriteSheet1_20
+    21300042: pirateSpriteSheet1_21
+    21300044: pirateSpriteSheet1_22
+    21300046: pirateSpriteSheet1_23
+    21300048: pirateSpriteSheet1_24
+    21300050: pirateSpriteSheet1_25
+    21300052: pirateSpriteSheet1_26
+    21300054: pirateSpriteSheet1_27
+    21300056: pirateSpriteSheet1_28
+    21300058: pirateSpriteSheet1_29
+    21300060: pirateSpriteSheet1_30
+    21300062: pirateSpriteSheet1_31
+    21300064: pirateSpriteSheet1_32
+    21300066: pirateSpriteSheet1_33
+    21300068: pirateSpriteSheet1_34
+    21300070: pirateSpriteSheet1_35
+    21300072: pirateSpriteSheet1_36
+    21300074: pirateSpriteSheet1_37
+    21300076: pirateSpriteSheet1_38
+    21300078: pirateSpriteSheet1_39
+    21300080: pirateSpriteSheet1_40
+    21300082: pirateSpriteSheet1_41
+    21300084: pirateSpriteSheet1_42
+    21300086: pirateSpriteSheet1_43
+    21300088: pirateSpriteSheet1_44
+    21300090: pirateSpriteSheet1_45
+    21300092: pirateSpriteSheet1_46
+    21300094: pirateSpriteSheet1_47
+    21300096: pirateSpriteSheet1_48
+    21300098: pirateSpriteSheet1_49
+    21300100: pirateSpriteSheet1_50
+    21300102: pirateSpriteSheet1_51
+    21300104: pirateSpriteSheet1_52
+    21300106: pirateSpriteSheet1_53
+    21300108: pirateSpriteSheet1_54
+    21300110: pirateSpriteSheet1_55
+    21300112: pirateSpriteSheet1_56
+    21300114: pirateSpriteSheet1_57
+    21300116: pirateSpriteSheet1_58
+    21300118: pirateSpriteSheet1_59
+    21300120: pirateSpriteSheet1_60
+    21300122: pirateSpriteSheet1_61
+    21300124: pirateSpriteSheet1_62
+    21300126: pirateSpriteSheet1_63
+    21300128: pirateSpriteSheet1_64
+    21300130: pirateSpriteSheet1_65
+    21300132: pirateSpriteSheet1_66
+    21300134: pirateSpriteSheet1_67
+    21300136: pirateSpriteSheet1_68
+    21300138: pirateSpriteSheet1_69
+    21300140: pirateSpriteSheet1_70
+    21300142: pirateSpriteSheet1_71
+    21300144: pirateSpriteSheet1_72
+    21300146: pirateSpriteSheet1_73
+    21300148: pirateSpriteSheet1_74
+    21300150: pirateSpriteSheet1_75
+    21300152: pirateSpriteSheet1_76
+    21300154: pirateSpriteSheet1_77
+    21300156: pirateSpriteSheet1_78
+    21300158: pirateSpriteSheet1_79
+    21300160: pirateSpriteSheet1_80
+    21300162: pirateSpriteSheet1_81
+    21300164: pirateSpriteSheet1_82
+    21300166: pirateSpriteSheet1_83
+    21300168: pirateSpriteSheet1_84
+    21300170: pirateSpriteSheet1_85
+    21300172: pirateSpriteSheet1_86
+    21300174: pirateSpriteSheet1_87
+    21300176: pirateSpriteSheet1_88
+    21300178: pirateSpriteSheet1_89
+    21300180: pirateSpriteSheet1_90
+    21300182: pirateSpriteSheet1_91
+    21300184: pirateSpriteSheet1_92
+    21300186: pirateSpriteSheet1_93
+    21300188: pirateSpriteSheet1_94
+    21300190: pirateSpriteSheet1_95
+    21300192: pirateSpriteSheet1_96
+    21300194: pirateSpriteSheet1_97
+    21300196: pirateSpriteSheet1_98
+    21300198: pirateSpriteSheet1_99
+    21300200: pirateSpriteSheet1_100
+    21300202: pirateSpriteSheet1_101
+    21300204: pirateSpriteSheet1_102
+    21300206: pirateSpriteSheet1_103
+    21300208: pirateSpriteSheet1_104
+    21300210: pirateSpriteSheet1_105
+    21300212: pirateSpriteSheet1_106
+    21300214: pirateSpriteSheet1_107
+    21300216: pirateSpriteSheet1_108
+    21300218: pirateSpriteSheet1_109
+    21300220: pirateSpriteSheet1_110
+    21300222: pirateSpriteSheet1_111
+    21300224: pirateSpriteSheet1_112
+    21300226: pirateSpriteSheet1_113
+    21300228: pirateSpriteSheet1_114
+    21300230: pirateSpriteSheet1_115
+    21300232: pirateSpriteSheet1_116
+    21300234: pirateSpriteSheet1_117
+    21300236: pirateSpriteSheet1_118
+    21300238: pirateSpriteSheet1_119
+    21300240: pirateSpriteSheet1_120
+    21300242: pirateSpriteSheet1_121
+    21300244: pirateSpriteSheet1_122
+    21300246: pirateSpriteSheet1_123
+    21300248: pirateSpriteSheet1_124
+    21300250: pirateSpriteSheet1_125
+    21300252: pirateSpriteSheet1_126
+    21300254: pirateSpriteSheet1_127
+    21300256: pirateSpriteSheet1_128
+    21300258: pirateSpriteSheet1_129
+    21300260: pirateSpriteSheet1_130
+    21300262: pirateSpriteSheet1_131
+    21300264: pirateSpriteSheet1_132
+    21300266: pirateSpriteSheet1_133
+    21300268: pirateSpriteSheet1_134
+    21300270: pirateSpriteSheet1_135
+    21300272: pirateSpriteSheet1_136
+    21300274: pirateSpriteSheet1_137
+    21300276: pirateSpriteSheet1_138
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1795
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c276b661708e4181cebaa9bf46499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1795
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f07321ee776d574a956e253974f1650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1795
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747268f9846830546b0a5a6b07d83883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1795
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104fe7eab9f99444ca71da371e22c1c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1795
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177d6ca67ef01d74a9c0b5aab4d4b75e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_5
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1795
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad8c154ccfd1445a9cb5c6d937e85d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1795
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c4da2dffd2bc4f8161772ecc738dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_7
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1795
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28dfd4270f3fb849a0af11b7de82c93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1795
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc781aa4402b154da4a1d4520d900d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_9
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1795
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3675b00e04ceb36419b75558fc3637f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1713
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5fe91f1f1f3154ab037f348222a121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1713
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab30f45dfee89e64dafc73f1d78de55b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1713
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079088bec90af744a8611cf29f281020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1713
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d62d6deb86e19e408eeb4e9d0a15f0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_14
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1713
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbc1463d6736e144ba40eae9f45dbe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1713
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d7d4dcd9646c4d847c2904ee3dbf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_16
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1713
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff904310457ddf4690a609acf1cc19d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_17
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1713
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329048e4d7495243b86ea55b90aaf0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1631
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2bf0c59a8df264e9113bc6a308239c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1631
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698d42b6e2081084c861cf22f48edf6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1631
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923c3a7a192ef454aa4a4301e0221814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_21
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1631
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bb178084962d5418b0a6a6c5179ee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1631
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9414fd70bcbe24f45aa2c09fc2d5ee76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_23
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1631
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e643328571993054f912a71db02365cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1551
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31fc69bb54441f4fa2ae6e8ba4418bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1550
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1c74779e255fb41aaa998f431af12b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1549
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a32d98eacbaf54aa9385f55952c6d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1549
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e623cf41540b748ba6399affff778b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1551
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26f6b756e0bc84eaac9dac596e61b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_29
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1550
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94af77bce50ba13438b080e875f2f180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1549
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1abdc3e1bafd7040849dd3dfb1a7b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_31
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1549
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ff5cd73c0678641bdbff2358c532ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1460
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5961c986d7de6d47ba60c0f97fc48bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1461
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb5acf81e6db5841b1ef70d34c037c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1465
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3482a368b5b4d7049b0d31ada8977622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1468
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61f63effb98f884abae627e82452db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_36
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1460
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88aeff8219cbef49a62a6470b037e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1461
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b107f5bf792a48b52a8f92a523a52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_38
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1465
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a34fc3ad0415d4d8455d5956c366ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_39
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1468
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5ed3c6ae2f1134097515ab6e8995a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df8bb2c93f7a7489506d8aa53936e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1380
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dabedd4ef04074db4e6862b070cd49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1299
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8fc459cc8bbfa49b94c5b31fcb9a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1297
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ec0f469979da47b71fed1592f06da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1297
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71e2453b9d586f4abf9b0f0889d1ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1221
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a2bef02303a2419773c3956c4b6b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1221
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2064a1f78e55f44a6e5d658052957d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1221
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf5b4f1bdb93cd4196f36a5c55b4644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1221
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ecaa439d58f7646af7260506777b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1221
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e018790763263d42b5c40571f510ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_50
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1221
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf12b35001bfd6544a8fa81af2892a7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1137
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb698abafaa4ea4a8a8c7a882aad575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_52
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1137
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85db0f470df1348a715af017301f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1137
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f438fb6d7a6074fb99dbacf2bdb3ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_54
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1137
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445994af8a43cb489bc27434914caae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_55
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1137
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb2244061feff64dad4f7a8e0a342c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_56
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1137
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9043e3df521fc4da15c1a67d7babf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_57
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1137
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3aaacdf35f043409dbe2c843725cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_58
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1055
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ae6abb1e5d1a941bc93aa8d442b85c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1055
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485a3a8a03a12bc47871e2b53c19b789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_60
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 973
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51404cebac3a51a4f9e0773f5a16cb50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 973
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5674657b1409941479700d0360ec87d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 896
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7513595eef384e458fbc75956b6d7c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 881
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cff70e191bf4a498b5d7ca914211de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 881
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe48ffad0a49446a1b63cffcae5f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 811
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbf4a964564148449169b26b15e2d61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 811
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e736d9e0399a64dae88558c5dbdcb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_67
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 811
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c7b5a76ed4fb849b1eb49182786188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_68
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 811
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5785110279a7d44f88cf27c109ef55d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 729
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acf06ddf773470469d900fe912c92d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_70
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 729
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b21a6bb43cafa43b0a520444b1e6db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_71
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 729
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532bbfbb9abd47344a939fbe2b547a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_72
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 729
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c689e89349683f54ca1d3647e256cb21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_73
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 647
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd70c01d4867584792182127a9ff544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_74
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 647
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e93c12f48d94c94b8da7c53da9f9aa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 647
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd5307744c64b42a0d720fb7ec1aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_76
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 647
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e0f139078d89a4da4fa4e64d1f2578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_77
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 647
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9793c5eec92e3d54ba5eb7b0f7014c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_78
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 647
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524dbfd1842cd944680fe77bbd9d2016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_79
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 647
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d7ae17fd015a44ae302f87f98d788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_80
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 647
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d81714a432cc84da81e9ed890d75a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_81
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 647
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f233ba6e0236c499ebea4e379eb00d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_82
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 647
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd7426acb9c924c9aff523f1a3e120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_83
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 647
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c95dcd18e94e04882103d80326229f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_84
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 647
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88c0f4a7cd46f24ba0019accfbc828b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_85
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 647
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748b6f3fdf9834a40ba8eee2f9444075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_86
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 647
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6a49e939dcb640862f37324f82a03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_87
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 647
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba5725ef19453140bf6494893a7901b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_88
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 565
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b992631bd492044afc51e4607500dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_89
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 565
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc009e5087f240749b258b6f21879b53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 483
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee4dd3762319f4f83ff24ce6b04550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 483
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a122b0619dec7be4583f6e460bbf79ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_92
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 483
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592347b0a2003e445b2d41ceaa104d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_93
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 483
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05ebadd8262a04cb2a02ea97a215b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_94
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 483
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7585d9e30140d4a4aa17ba1b0271bd3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_95
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 483
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221dc15277f9f56418c7bc40047ef95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_96
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 483
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0dbc1dc85a174892af13afaa02c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_97
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 483
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1300cb2155df3548964e6bb6aa59f90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1058540faf9890f4c97313388063da60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_99
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 398
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b2a009c3478949bb25dc35a57337c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_100
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 398
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced6fcbf0f14c464cba04a7a07374b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_101
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 398
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd544a8d3823644a2a4d8a3a05d585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_102
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 398
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac4514125c5e6b418f08584ba95c7ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_103
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 398
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b0923a0f82ab94b84ea8c7127fb2ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_104
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 319
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aad368c9c2e7b47a34ceaa68a8c202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_105
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 319
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f458a28d3e2ced4cbd4ee12d864ea02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_106
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 233
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72e205bf0ce7a48bc0be28a941f44d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_107
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 233
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd82d805a18df64284ba47dbc97a936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f540ce49e2f5cec49b59f449dc2aa93e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_109
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 149
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea3b16251ef3bb4084d8e3a5cd1072b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_110
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 73
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd59b3cefb726e4c9b63c77082b29cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_111
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 76
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36828315ed196745a8e7d9a49b21d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_112
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 73
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82903285647f574eb2146bc1e4c5826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_113
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 72
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27568f5831bfac7479c1f1a5e0ad19fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_114
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 73
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984dc1ffdab48b340a3373daab93fd23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_115
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 82
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f741d2de807778046ad1fe4c88540654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_116
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 75
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c2aba2304718041ad7f1eaac7fb17b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_117
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 73
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36c83715253f4743971793a32de3f1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_118
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 73
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937141bd6ff70147ab1f6d7c6a3e8c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_119
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 29
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3b23b95b44cdf40af721171623be25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 36
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a43ff2f4420554087f218625097cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968059ec33e4b1b47a260076976a5f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_122
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 31
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee0db43ee4df14ebc924cc6e6e073b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_123
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6e48c6cb94edb4e8ab4345aec6788d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_124
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 30
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc89367d8fd43c4b80ed503a43e1656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_125
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 37
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0316eba5685cb4c43b842122ffb1b07e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_126
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624b2620de9f2f04fb6ab1dd86ba06c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_127
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 31
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c2bc8db1a73204296f7d7dd8d8126c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_128
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b92f27d9ec6b646b23085f193eefeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_129
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbfb5c7f2e4a1e488871b66c2ec16c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_130
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe46236a63097848be1c1b4d622caa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_131
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1565931d1a4004345933cc526c80274c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_132
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2636091dc3ad07444ad65df5e36d531f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_133
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 32
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7912bd22a18c07c45ac350a3af6af59e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610390460ad7454eb01e731dfadcca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_135
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 30
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d2804600d2c6240b2605aff60bd680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_136
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c46c41bfeaba242a4dda4e423598ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_137
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916f5465be25a554ca15b07834c0aee3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pirateSpriteSheet1_138
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 28
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da843852d5525fd45a9bcdc120a167c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1cc70a49cce35b743b7d7e92f3cb635a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -35,7 +35,7 @@ class PlayerScript: MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             Application.Quit();
-            EditorApplication.Exit(0);
+            EditorApplication.isPlaying = false;
         }
     }
 }
