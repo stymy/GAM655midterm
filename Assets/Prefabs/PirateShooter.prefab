@@ -9,48 +9,48 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1240403147984628}
+  m_RootGameObject: {fileID: 1338198501902130}
   m_IsPrefabAsset: 1
---- !u!1 &1240403147984628
+--- !u!1 &1338198501902130
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4204753218341516}
-  - component: {fileID: 212235351894712258}
-  - component: {fileID: 114843919890505064}
-  - component: {fileID: 50110225852434884}
-  - component: {fileID: 95295825115616990}
-  - component: {fileID: 61873845759790920}
+  - component: {fileID: 4326791905982594}
+  - component: {fileID: 212711590862671004}
+  - component: {fileID: 114733056464531516}
+  - component: {fileID: 50931218945390518}
+  - component: {fileID: 61349927738837880}
+  - component: {fileID: 95182623863979250}
   m_Layer: 0
-  m_Name: Pirate
+  m_Name: PirateShooter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4204753218341516
+--- !u!4 &4326791905982594
 Transform:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1240403147984628}
+  m_GameObject: {fileID: 1338198501902130}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.19, y: 0, z: 0}
+  m_LocalPosition: {x: -2.09, y: -0.71, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!50 &50110225852434884
+--- !u!50 &50931218945390518
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1240403147984628}
+  m_GameObject: {fileID: 1338198501902130}
   m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
@@ -64,12 +64,12 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!61 &61873845759790920
+--- !u!61 &61349927738837880
 BoxCollider2D:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1240403147984628}
+  m_GameObject: {fileID: 1338198501902130}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -89,16 +89,16 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.59, y: 0.57}
   m_EdgeRadius: 0
---- !u!95 &95295825115616990
+--- !u!95 &95182623863979250
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1240403147984628}
+  m_GameObject: {fileID: 1338198501902130}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: db3c67e2e9a37f142a88b79a531633e6, type: 2}
+  m_Controller: {fileID: 9100000, guid: 12ddf70d286ba914299d02158eeb5508, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -107,12 +107,12 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &114843919890505064
+--- !u!114 &114733056464531516
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1240403147984628}
+  m_GameObject: {fileID: 1338198501902130}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2636866eb17800044bbc995321741302, type: 3}
@@ -120,18 +120,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thisSpeed: 1
   ChangeDirCooldown: 1
-  thisBullet: {fileID: 0}
-  thisBulletCooldown: 0
-  Shooting: 0
+  thisBullet: {fileID: 1106367017650292, guid: 0aa3088ba18dbb94db0e7f01b7975433, type: 2}
+  thisBulletCooldown: 40
+  Shooting: 1
   thisState: 0
   thisLOSRadius: 0
   thisPathWaypoints: []
---- !u!212 &212235351894712258
+--- !u!212 &212711590862671004
 SpriteRenderer:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1240403147984628}
+  m_GameObject: {fileID: 1338198501902130}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0

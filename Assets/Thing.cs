@@ -7,12 +7,23 @@ using UnityEngine;
 
 class Thing : MonoBehaviour
 {
+    protected enum MoveState
+    {
+        Random,
+        Follow,
+        Run,
+        Path
+    }
+
+    /* Movement Variables */
     [SerializeField] float thisSpeed = 0;
     protected Vector3 thisDir = Vector3.zero;
     protected Rigidbody2D RB = null;
     [SerializeField] float ChangeDirCooldown;
     private float ChangeDirTimer;
+    private int thisPathIndex = 0;
 
+    /* Shooting Variables */
     [SerializeField] GameObject thisBullet = null;
     [SerializeField] float thisBulletCooldown = 0;
     private float thisBulletTimer = 0;
@@ -43,7 +54,7 @@ class Thing : MonoBehaviour
     protected void ShootBullet()
     {
         thisBulletTimer--;
-        if (thisBulletTimer <=0)
+        if (thisBulletTimer <= 0)
         {
             Instantiate(thisBullet, this.transform);
             thisBulletTimer = thisBulletCooldown;
@@ -62,12 +73,47 @@ class Thing : MonoBehaviour
         MoveThing();
     }
 
-    protected void FollowHero()
+    private Vector3 VectortoHero()
     {
         Vector3 aTarget = HeroObject.transform.position;
         Vector3 aDir = aTarget - this.transform.position;
+        return aDir;
+    }
+
+    protected void FollowHero()
+    {
+        Vector3 aDir = VectortoHero();
         aDir.z = 0;
         thisDir = aDir;
         MoveThing();
+    }
+
+    protected float DistancetoHero()
+    {
+        float aDistance = VectortoHero().magnitude;
+        return aDistance;
+    }
+
+    protected void RunFromHero()
+    {
+        Vector3 aDir = -VectortoHero();
+        thisDir = aDir;
+        MoveThing();
+    }
+
+    protected void FollowPath(GameObject[] aPathWaypoints)
+    {
+        GameObject aWP = aPathWaypoints[thisPathIndex];
+        Vector3 aTarget = aWP.transform.position;
+        Vector3 aDir = aTarget - this.transform.position;
+        if (aDir.magnitude >= thisSpeed)
+        {
+            thisDir = aDir;
+            MoveThing();
+        }
+        else
+        {
+            thisPathIndex = (thisPathIndex + 1) % aPathWaypoints.Length;
+        }
     }
 }
